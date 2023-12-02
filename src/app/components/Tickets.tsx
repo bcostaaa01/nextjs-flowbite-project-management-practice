@@ -16,7 +16,7 @@ interface Props {
     className?: string;
 }
 
-const customTheme: CustomFlowbiteTheme = {
+const customTheme = {
     button: {
         color: {
             success: 'bg-green-100',
